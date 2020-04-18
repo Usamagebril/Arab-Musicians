@@ -1,0 +1,10 @@
+<div class="card-body" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+                  <h1 class="card-title ">Clean Bandit</h1>
+                  <p class="card-text" style="font-size: large;"> are a British electronic music band, formed in Cambridge in 2008. The band consists of members Grace Chatto, and brothers Jack and Luke Patterson. Many of their projects are known for blending elements of both classical and dance music, and featuring guest vocalists. Notable collaborators include MARINA, Demi Lovato, Jess Glynne, Anne Marie, Sean Paul, Zara Larsson, Julia Michaels, Luis Fonsi and Ellie Goulding.
+                  <br>
+                  <b>Members</b> : Grace Chatto , Jack Patterson & Luke Patterson
+                  <br>
+                  <b>Genres</b>	: Electronic , classical crossover , electropop , dance-pop
+                  </p>
+                  <p class="card-text" style="font-size: large;"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
